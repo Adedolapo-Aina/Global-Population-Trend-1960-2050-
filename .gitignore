@@ -1,0 +1,15 @@
+*.pbix
+*.pbit
+*.pbix.dat
+*.tmp
+*.cache
+~$*
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+__pycache__/
+.env
+venv/
+node_modules/
